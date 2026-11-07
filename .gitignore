@@ -5,8 +5,9 @@
 *.wav
 *.mp3
 *.srt
+!templates/glopick_60s/assets/*.mp4
+!templates/glopick_60s/captions.srt
 *.capcut
-capcut_project/
 __pycache__/
 .env
 .env.*
