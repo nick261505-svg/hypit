@@ -1,0 +1,14 @@
+# Local media and editor projects are not portable skill files.
+*.mp4
+*.mov
+*.webm
+*.wav
+*.mp3
+*.srt
+*.capcut
+capcut_project/
+__pycache__/
+.env
+.env.*
+*.key
+*.pem
